@@ -1,0 +1,1 @@
+{"results":[{"series":[{"name":"jobDetails","columns":["time","jobId","metricsType","numberOfMap","numberOfReduce"],"values":[[1555464997917000000,"1555456209984_0019","jobDetails","15","10"]]}]}]}

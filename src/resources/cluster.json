@@ -1,0 +1,1 @@
+{"results":[{"series":[{"name":"cluster","columns":["time","activeNodes","availableMB","jobId","metricsType","totalMB","totalNodes","unhealthyNodes"],"values":[[1555464998023000000,"2","0","1555456209984_0019","cluster","16384","3","1"]]}]}]}

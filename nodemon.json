@@ -1,0 +1,13 @@
+{
+  "watch": ["src/"],
+  "restartable": "rs",
+  "ignore": [
+    ".git",
+    "public",
+    "node_modules/",
+    "typings",
+    "coverage",
+    "*.test.js",
+    ".idea"
+  ]
+}

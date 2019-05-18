@@ -1,0 +1,1 @@
+{"results":[{"series":[{"name":"job","columns":["time","failedMaps","failedReduces","finishTime","jobId","mapsCompleted","metricsType","name","reducesCompleted","startTime","state","submitTime"],"values":[[1555465130662000000,"0","0","17/04/19 02:38:42","1555456209984_0019","15","job","wordcount","10","17/04/19 02:36:30","SUCCEEDED","17/04/19 02:36:20"]]}]}]}
