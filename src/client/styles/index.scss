@@ -1,0 +1,16 @@
+@import "content";
+@import "header";
+@import "menu";
+body {
+  font-family: Lato, Arial, sans-serif;
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  .block{
+    display: flex;
+    flex-grow: 1;
+    min-height: 100vh;
+  }
+}

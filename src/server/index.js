@@ -1,10 +1,9 @@
 import Koa from 'koa';
 import koaConfig from './config/koa';
+import * as config from './config';
 
 const app = new Koa();
 koaConfig(app);
-
-const port = 8000;
-app.listen(port, () => {
-    console.log(`Server is listening on port ${port}`);
+app.listen(config.port, () => {
+    console.log(`Server is listening on port ${config.port}`);
 });
