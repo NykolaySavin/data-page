@@ -9,7 +9,8 @@ export const reducer = {
             menu:{
                 ...state.menu,
                 selectedItem:header,
-            }
+            },
+            page:0
 
         }},
 

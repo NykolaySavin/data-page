@@ -25,7 +25,7 @@ export const reducer = {
     }),
     [fetchContentSuccess]: (state, data) => ({
         ...state,
-        content:data
+        content:data.results[0].series[0]
     }),
     [fetchContentFail]: (state, error) => ({
         ...state,
